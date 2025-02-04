@@ -1,6 +1,5 @@
 Hi there, I'm Mariam Hany! 👋
-
-Welcome to my GitHub space! I'm Mariam, Computer Engineering student in Ain Shams University. I am a passionate coder who loves writing clean, efficient, and scalable code. Here's a glimpse into what I do:
+Welcome to my GitHub space! I'm Mariam, a Computer Engineering student at Ain Shams University. I am a passionate coder who loves writing clean, efficient, and scalable code. Here's a glimpse into what I do:
 
 💻 Coding: Writing clean, efficient, and scalable code.
 
@@ -13,6 +12,6 @@ Feel free to reach out if you want to collaborate on exciting projects or just c
 
 📧 Email: mar.hany@hotmail.com
 
-💼 LinkedIn: [Mariam Hany](https://www.linkedin.com/in/mariam-hany-a28a50277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+💼 LinkedIn: Mariam Hany
 
 Keep exploring and happy coding! 🌟
