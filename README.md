@@ -13,6 +13,6 @@ Feel free to reach out if you want to collaborate on exciting projects or just c
 
 📧 Email: mar.hany@hotmail.com
 
-💼 LinkedIn: Mariam Hany
+💼 LinkedIn: [Mariam Hany](https://www.linkedin.com/in/mariam-hany-a28a50277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Keep exploring and happy coding! 🌟
