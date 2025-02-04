@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there, I'm Mariam Hany! 👋
 
-<!--
-**MariamHany4/MariamHany4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! I'm Mariam, Computer Engineering student in Ain Shams University. I am a passionate coder who loves writing clean, efficient, and scalable code. Here's a glimpse into what I do:
 
-Here are some ideas to get you started:
+💻 Coding: Writing clean, efficient, and scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Problem Solving: Tackling complex challenges and finding innovative solutions.
+
+🌱 Learning: Constantly exploring new technologies and methodologies.
+
+Get in Touch
+Feel free to reach out if you want to collaborate on exciting projects or just chat about tech!
+
+📧 Email: mar.hany@hotmail.com
+
+💼 LinkedIn: [Mariam Hany](https://www.linkedin.com/in/mariam-hany-a28a50277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+Keep exploring and happy coding! 🌟
