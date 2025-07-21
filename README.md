@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mariam Hany 👋</h1>
 
 <p align="center">
-  🎓 <strong>Senior Computer Engineering Student</strong> at Ain Shams University  
+  🎓 <strong>Computer Engineering Student</strong> at Ain Shams University  
   <br>📍 Based in <strong>Cairo, Egypt</strong>  
   <br>💡 Passionate about <strong>AI, Machine Learning, and clean software design</strong>
   <br><br>
