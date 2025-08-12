@@ -62,13 +62,4 @@ I’m a dedicated engineering student with a strong foundation in software devel
 
 ---
 
-### ✨ Let’s Connect
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariamHany4&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamHany4&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 <h3 align="center">🌟 Thanks for visiting — let’s build the future together!</h3>
