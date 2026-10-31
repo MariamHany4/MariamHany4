@@ -24,32 +24,32 @@ AI & Machine Learning Engineer | Computer Vision | Deep Learning
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a Computer & Systems Engineering graduate passionate about building intelligent solutions using **Artificial Intelligence and Machine Learning**.
 
 My main interests include:
 
-- 👁️ Computer Vision & Image Processing
-- 🧠 Deep Learning & Neural Networks
-- 🤖 Machine Learning Applications
-- 💬 Natural Language Processing & LLMs
-- ✨ Generative AI
+- Computer Vision & Image Processing
+- Deep Learning & Neural Networks
+- Machine Learning Applications
+- Natural Language Processing & LLMs
+- Generative AI
 
 I enjoy exploring new technologies, solving challenging problems, and turning ideas into practical AI solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👩‍💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
 </p>
 
 
-### 🧠 AI / Machine Learning / Computer Vision
+### AI / Machine Learning / Computer Vision
 
 <div>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
@@ -61,7 +61,7 @@ I enjoy exploring new technologies, solving challenging problems, and turning id
 </div>
 
 
-### 🌐 Development & Tools
+### Development & Tools
 
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,react" />
@@ -74,7 +74,7 @@ I enjoy exploring new technologies, solving challenging problems, and turning id
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 📧 **Email:** mar.hany@hotmail.com
 
